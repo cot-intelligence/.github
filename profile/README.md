@@ -20,7 +20,7 @@ No cloud accounts. Your traces stay on your machine.
 ## Quickstart
 
 ```bash
-docker run -d -p 8000:8000 ghcr.io/cot-intelligence/cot:latest
+curl -fsSL https://cot.run/install | sh
 ```
 
 Open the dashboard at **http://localhost:8000**.
@@ -29,6 +29,7 @@ Open the dashboard at **http://localhost:8000**.
 
 ## Repositories
 
+| Repository | Description |
 |---|---|
 | [**cot**](https://github.com/cot-intelligence/cot) | Collector API, dashboard, bridge, and Docker image |
 
@@ -36,17 +37,18 @@ Open the dashboard at **http://localhost:8000**.
 
 ## What you get
 
+| Feature | Description |
 |---|---|
 | **Full-stack tracing** | LLM calls, tool executions, and custom spans |
 | **Continuous evaluation** | Async evaluators on every trace |
 | **Latency monitoring** | Token usage and span waterfalls |
 | **Self-host only** | Runs on your machines — your data stays yours |
-| **Open source** | [AGPL-3.0](https://github.com/cot-intelligence/cot/blob/main/LICENSE) |
+| **Open source** | Licensed under [AGPL-3.0](https://github.com/cot-intelligence/cot/blob/main/LICENSE) |
 
 <br>
 
 <div align="center">
-*100% free · analytics chat · agentic usage metrics · AI governance*
+*100% free · observability · agentic usage metrics · AI governance*
 <br>
 **Container:** `ghcr.io/cot-intelligence/cot:latest`
 </div>
