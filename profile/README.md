@@ -1,5 +1,5 @@
 <img src="https://raw.githubusercontent.com/cot-intelligence/.github/main/profile/banner.png" alt="cot." width="100%">
-<br><br>
+<br>
 
 <div align="center">
 
