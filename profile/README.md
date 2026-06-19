@@ -1,5 +1,4 @@
-<img src="https://raw.githubusercontent.com/cot-intelligence/.github/main/profile/hero.png" alt="See how agents think — trace viewer" width="100%">
-
+<img src="https://raw.githubusercontent.com/cot-intelligence/.github/main/profile/banner.png" alt="cot." width="100%">
 <br><br>
 
 <div align="center">
@@ -13,7 +12,8 @@ No cloud accounts. Your traces stay on your machine.
 
 <br>
 
-<img src="https://raw.githubusercontent.com/cot-intelligence/.github/main/profile/banner.png" alt="cot." width="100%">
+<img src="https://raw.githubusercontent.com/cot-intelligence/.github/main/profile/hero.png" alt="See how agents think — trace viewer" width="100%">
+
 
 <br>
 
@@ -29,7 +29,6 @@ Open the dashboard at **http://localhost:8000**.
 
 ## Repositories
 
-| | |
 |---|---|
 | [**cot**](https://github.com/cot-intelligence/cot) | Collector API, dashboard, bridge, and Docker image |
 
@@ -37,7 +36,6 @@ Open the dashboard at **http://localhost:8000**.
 
 ## What you get
 
-| | |
 |---|---|
 | **Full-stack tracing** | LLM calls, tool executions, and custom spans |
 | **Continuous evaluation** | Async evaluators on every trace |
@@ -48,11 +46,7 @@ Open the dashboard at **http://localhost:8000**.
 <br>
 
 <div align="center">
-
 *100% free · analytics chat · agentic usage metrics · AI governance*
-
-<br><br>
-
+<br>
 **Container:** `ghcr.io/cot-intelligence/cot:latest`
-
 </div>
