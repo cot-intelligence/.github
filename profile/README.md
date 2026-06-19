@@ -1,26 +1,61 @@
-# cot.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cot-intelligence/.github/main/profile/banner.png">
+  <img src="https://raw.githubusercontent.com/cot-intelligence/.github/main/profile/banner.png" alt="cot." width="100%">
+</picture>
 
-**Self-hosted observability for autonomous systems.**
+<br>
 
-Trace agent reasoning from Claude Code, Cursor, and Codex — on your infrastructure. No cloud accounts; your traces stay on your machine.
+<img src="https://raw.githubusercontent.com/cot-intelligence/.github/main/profile/hero.png" alt="See how agents think — trace viewer" width="100%">
+
+<br><br>
+
+<div align="center">
+
+**The agentic observability & AI governance platform.** Self-hosted, audit-ready.
+
+Trace agent reasoning from Claude Code, Cursor, and Codex — on your infrastructure.  
+No cloud accounts. Your traces stay on your machine.
+
+</div>
+
+<br>
 
 ## Quickstart
 
 ```bash
-curl -fsSL https://cot.run/install | sh
+docker run -d -p 8000:8000 ghcr.io/cot-intelligence/cot:latest
 ```
 
-Open the dashboard at [http://localhost:8000](http://localhost:8000).
+Open the dashboard at **http://localhost:8000**.
+
+<br>
 
 ## Repositories
 
-| Repository | Description |
-|------------|-------------|
-| [cot](https://github.com/cot-intelligence/cot) | Collector API, dashboard, bridge, and Docker image |
-| [website](https://github.com/cot-intelligence/website) | Marketing site and docs at [cot.run](https://cot.run) |
+| | |
+|---|---|
+| [**cot**](https://github.com/cot-intelligence/cot) | Collector API, dashboard, bridge, and Docker image |
 
-## Links
+<br>
 
-- **Site:** [cot.run](https://cot.run)
-- **Container:** `ghcr.io/cot-intelligence/cot:latest`
-- **License:** AGPL-3.0
+## What you get
+
+| | |
+|---|---|
+| **Full-stack tracing** | LLM calls, tool executions, and custom spans |
+| **Continuous evaluation** | Async evaluators on every trace |
+| **Latency monitoring** | Token usage and span waterfalls |
+| **Self-host only** | Runs on your machines — your data stays yours |
+| **Open source** | [AGPL-3.0](https://github.com/cot-intelligence/cot/blob/main/LICENSE) |
+
+<br>
+
+<div align="center">
+
+*100% free · analytics chat · agentic usage metrics · AI governance*
+
+<br><br>
+
+**Container:** `ghcr.io/cot-intelligence/cot:latest`
+
+</div>
