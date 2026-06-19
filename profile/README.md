@@ -19,7 +19,7 @@ No cloud accounts. Your traces stay on your machine.
 
 ## Quickstart
 
-```bash
+```sh
 curl -fsSL https://cot.run/install | sh
 ```
 
