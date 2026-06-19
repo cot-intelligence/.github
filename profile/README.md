@@ -1,10 +1,3 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cot-intelligence/.github/main/profile/banner.png">
-  <img src="https://raw.githubusercontent.com/cot-intelligence/.github/main/profile/banner.png" alt="cot." width="100%">
-</picture>
-
-<br>
-
 <img src="https://raw.githubusercontent.com/cot-intelligence/.github/main/profile/hero.png" alt="See how agents think — trace viewer" width="100%">
 
 <br><br>
@@ -17,6 +10,10 @@ Trace agent reasoning from Claude Code, Cursor, and Codex — on your infrastruc
 No cloud accounts. Your traces stay on your machine.
 
 </div>
+
+<br>
+
+<img src="https://raw.githubusercontent.com/cot-intelligence/.github/main/profile/banner.png" alt="cot." width="100%">
 
 <br>
 
