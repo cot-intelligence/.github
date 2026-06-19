@@ -48,7 +48,11 @@ Open the dashboard at **http://localhost:8000**.
 <br>
 
 <div align="center">
+
 *100% free · observability · agentic usage metrics · AI governance*
+
 <br>
+
 **Container:** `ghcr.io/cot-intelligence/cot:latest`
+
 </div>
